@@ -7,6 +7,8 @@ Tech
 
 
 Game rules
+
+
 The basis of Big Two is a race to get rid of your cards. It supports 2, 3 or 4 players with one deck, and up to 8 players with two decks shuffled together. You will be dealt 13 cards in each game, and you can play these cards in four different ways:
 
 As Singles (just one card)
